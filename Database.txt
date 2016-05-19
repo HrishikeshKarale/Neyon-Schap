@@ -1,0 +1,11 @@
+Databases required:
+
+1>login:	Username(varchar[50]), Password(varchar[50], Lid(int)
+
+2>User:		Uid(int), name(varchar[100]), address(ntext), Email(varchar[50]), Phone(char[15], Mobile(char[15]), Username(varchar[50]), Dob(date), SecurityQ(varchar[50]), Ans(varchar[50]), LoginTime(date timestamp)
+
+3>Items		Iid(int), ItenName(varchar[50]), Quantity(int), Price(numeric[12,2])
+
+4>Guestbook	Name(varchar[50]), Email(varchar[50]), Username(varchar[50]), Entry(ntext), Timestamp(datetimestamp)
+
+5>
